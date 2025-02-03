@@ -1,0 +1,11 @@
+G:\DOTNET\DotnetMastery\DotnetMastery.Models\bin\Debug\net9.0\DotnetMastery.Models.deps.json
+G:\DOTNET\DotnetMastery\DotnetMastery.Models\bin\Debug\net9.0\DotnetMastery.Models.dll
+G:\DOTNET\DotnetMastery\DotnetMastery.Models\bin\Debug\net9.0\DotnetMastery.Models.pdb
+G:\DOTNET\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\DotnetMastery.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\DOTNET\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\DotnetMastery.Models.AssemblyInfoInputs.cache
+G:\DOTNET\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\DotnetMastery.Models.AssemblyInfo.cs
+G:\DOTNET\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\DotnetMastery.Models.csproj.CoreCompileInputs.cache
+G:\DOTNET\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\DotnetMastery.Models.dll
+G:\DOTNET\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\refint\DotnetMastery.Models.dll
+G:\DOTNET\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\DotnetMastery.Models.pdb
+G:\DOTNET\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\ref\DotnetMastery.Models.dll

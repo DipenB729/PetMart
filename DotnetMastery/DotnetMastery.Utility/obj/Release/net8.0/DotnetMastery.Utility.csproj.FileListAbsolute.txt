@@ -1,0 +1,14 @@
+G:\DOTNET\DotnetMastery\DotnetMastery.Utility\bin\Release\net8.0\DotnetMastery.Utility.deps.json
+G:\DOTNET\DotnetMastery\DotnetMastery.Utility\bin\Release\net8.0\DotnetMastery.Utility.runtimeconfig.json
+G:\DOTNET\DotnetMastery\DotnetMastery.Utility\bin\Release\net8.0\DotnetMastery.Utility.dll
+G:\DOTNET\DotnetMastery\DotnetMastery.Utility\bin\Release\net8.0\DotnetMastery.Utility.pdb
+G:\DOTNET\DotnetMastery\DotnetMastery.Utility\obj\Release\net8.0\DotnetMastery.Utility.csproj.AssemblyReference.cache
+G:\DOTNET\DotnetMastery\DotnetMastery.Utility\obj\Release\net8.0\DotnetMastery.Utility.GeneratedMSBuildEditorConfig.editorconfig
+G:\DOTNET\DotnetMastery\DotnetMastery.Utility\obj\Release\net8.0\DotnetMastery.Utility.AssemblyInfoInputs.cache
+G:\DOTNET\DotnetMastery\DotnetMastery.Utility\obj\Release\net8.0\DotnetMastery.Utility.AssemblyInfo.cs
+G:\DOTNET\DotnetMastery\DotnetMastery.Utility\obj\Release\net8.0\DotnetMastery.Utility.csproj.CoreCompileInputs.cache
+G:\DOTNET\DotnetMastery\DotnetMastery.Utility\obj\Release\net8.0\DotnetMastery.Utility.dll
+G:\DOTNET\DotnetMastery\DotnetMastery.Utility\obj\Release\net8.0\refint\DotnetMastery.Utility.dll
+G:\DOTNET\DotnetMastery\DotnetMastery.Utility\obj\Release\net8.0\DotnetMastery.Utility.pdb
+G:\DOTNET\DotnetMastery\DotnetMastery.Utility\obj\Release\net8.0\DotnetMastery.Utility.genruntimeconfig.cache
+G:\DOTNET\DotnetMastery\DotnetMastery.Utility\obj\Release\net8.0\ref\DotnetMastery.Utility.dll
