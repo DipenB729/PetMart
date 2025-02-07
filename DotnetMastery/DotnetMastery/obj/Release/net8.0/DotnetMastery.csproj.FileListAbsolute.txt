@@ -1,8 +1,0 @@
-G:\DOTNET\DotnetMastery\DotnetMastery\obj\Release\net8.0\DotnetMastery.csproj.AssemblyReference.cache
-G:\DOTNET\DotnetMastery\DotnetMastery\obj\Release\net8.0\DotnetMastery.GeneratedMSBuildEditorConfig.editorconfig
-G:\DOTNET\DotnetMastery\DotnetMastery\obj\Release\net8.0\DotnetMastery.AssemblyInfoInputs.cache
-G:\DOTNET\DotnetMastery\DotnetMastery\obj\Release\net8.0\DotnetMastery.AssemblyInfo.cs
-G:\DOTNET\DotnetMastery\DotnetMastery\obj\Release\net8.0\DotnetMastery.csproj.CoreCompileInputs.cache
-G:\DOTNET\DotnetMastery\DotnetMastery\obj\Release\net8.0\DotnetMastery.MvcApplicationPartsAssemblyInfo.cache
-G:\DOTNET\DotnetMastery\DotnetMastery\obj\Release\net8.0\DotnetMastery.RazorAssemblyInfo.cache
-G:\DOTNET\DotnetMastery\DotnetMastery\obj\Release\net8.0\DotnetMastery.RazorAssemblyInfo.cs

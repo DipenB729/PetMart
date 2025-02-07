@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\DOTNET\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj": {}
+    "G:\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj": {}
   },
   "projects": {
-    "G:\\DOTNET\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj": {
+    "G:\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\DOTNET\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj",
+        "projectUniqueName": "G:\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj",
         "projectName": "Dotnet.Models",
-        "projectPath": "G:\\DOTNET\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj",
+        "projectPath": "G:\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\DOTNET\\DotnetMastery\\DotnetMastery.Models\\obj\\",
+        "outputPath": "G:\\PetMart\\DotnetMastery\\DotnetMastery.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

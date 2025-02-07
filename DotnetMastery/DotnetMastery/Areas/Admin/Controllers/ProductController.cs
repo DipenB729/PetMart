@@ -3,6 +3,7 @@ using Dotnet.Models;
 using DotnetMastery.DataAccess.Data;
 using DotnetMastery.DataAccess.Repository;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 
 namespace DotnetMastery.Areas.Admin.Controllers
@@ -19,16 +20,23 @@ namespace DotnetMastery.Areas.Admin.Controllers
         public IActionResult Index()
         {
             List<Product> objProductList = _unitOfWork.Product.GetAll().ToList();
+           
             return View(objProductList);
         }
         public IActionResult Create()
         {
+            IEnumerable<SelectListItem> CategoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
+            {
+                Text = u.Name,
+                Value = u.Id.ToString()
+            });
+            //ViewBag.CategoryList=CategoryList;
+            ViewData["CategoryList"] = CategoryList;
             return View();
         }
         [HttpPost]
         public IActionResult Create(Product obj)
-        {
-            
+        {           
             if (ModelState.IsValid)
             {
                 _unitOfWork.Product.Add(obj);
@@ -36,6 +44,13 @@ namespace DotnetMastery.Areas.Admin.Controllers
                 TempData["success"] = "Product added successfullly";
                 return RedirectToAction("Index");
             }
+            ViewData["CategoryList"] = _unitOfWork.Category.GetAll()
+           .Select(u => new SelectListItem
+           {
+               Text = u.Name,
+               Value = u.Id.ToString()
+           });
+
             return View(obj);
 
         }

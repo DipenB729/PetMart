@@ -40,26 +40,6 @@ namespace DotnetMastery.DataAccess.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Categories");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            DisplayOrder = 1,
-                            Name = "action"
-                        },
-                        new
-                        {
-                            Id = 2,
-                            DisplayOrder = 1,
-                            Name = "Sci"
-                        },
-                        new
-                        {
-                            Id = 3,
-                            DisplayOrder = 3,
-                            Name = "Physics"
-                        });
                 });
 
             modelBuilder.Entity("Dotnet.Models.Product", b =>
@@ -74,11 +54,18 @@ namespace DotnetMastery.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ISBN")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImageUrl")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -100,21 +87,20 @@ namespace DotnetMastery.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Products");
+                    b.HasIndex("CategoryId");
 
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Author = "Dil bahadur",
-                            Description = "Best Seller",
-                            ISBN = "4002",
-                            ListPrice = 99.0,
-                            Price = 90.0,
-                            Price100 = 80.0,
-                            Price50 = 84.0,
-                            Title = "Box of Stone"
-                        });
+                    b.ToTable("Products");
+                });
+
+            modelBuilder.Entity("Dotnet.Models.Product", b =>
+                {
+                    b.HasOne("Dotnet.Models.Category", "Category")
+                        .WithMany()
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
                 });
 #pragma warning restore 612, 618
         }

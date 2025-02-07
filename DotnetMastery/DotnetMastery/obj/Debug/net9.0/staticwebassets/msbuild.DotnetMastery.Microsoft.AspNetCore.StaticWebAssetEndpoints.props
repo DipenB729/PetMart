@@ -16,13 +16,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\DotnetMastery.55wbd8ypb7.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"55wbd8ypb7"},{"Name":"integrity","Value":"sha256-h9tpZFlZmxXKWfWEsa5XHCQ8wQyUpuDLo5FOPEl6J3w="},{"Name":"label","Value":"_content/DotnetMastery/DotnetMastery.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1121"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022h9tpZFlZmxXKWfWEsa5XHCQ8wQyUpuDLo5FOPEl6J3w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 05:38:28 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1121"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022h9tpZFlZmxXKWfWEsa5XHCQ8wQyUpuDLo5FOPEl6J3w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Feb 2025 17:29:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/DotnetMastery/DotnetMastery.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\DotnetMastery.55wbd8ypb7.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-h9tpZFlZmxXKWfWEsa5XHCQ8wQyUpuDLo5FOPEl6J3w="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1121"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022h9tpZFlZmxXKWfWEsa5XHCQ8wQyUpuDLo5FOPEl6J3w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 05:38:28 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1121"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022h9tpZFlZmxXKWfWEsa5XHCQ8wQyUpuDLo5FOPEl6J3w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Feb 2025 17:29:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/DotnetMastery/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

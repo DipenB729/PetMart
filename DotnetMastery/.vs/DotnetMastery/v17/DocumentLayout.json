@@ -1,7 +1,35 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\DOTNET\\DotnetMastery\\",
-  "Documents": [],
+  "WorkspaceRootPath": "G:\\PetMart\\DotnetMastery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B80B23F3-35A2-461D-A609-D9618B91165F}|DotnetMastery.DataAccess\\DotnetMastery.DataAccess.csproj|g:\\petmart\\dotnetmastery\\dotnetmastery.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80B23F3-35A2-461D-A609-D9618B91165F}|DotnetMastery.DataAccess\\DotnetMastery.DataAccess.csproj|solutionrelative:dotnetmastery.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|g:\\petmart\\dotnetmastery\\dotnetmastery\\dotnetmastery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\dotnetmastery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|g:\\petmart\\dotnetmastery\\dotnetmastery\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|g:\\petmart\\dotnetmastery\\dotnetmastery\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|g:\\petmart\\dotnetmastery\\dotnetmastery\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD5F731-DFEB-435E-898F-101924BD68FB}|DotnetMastery.Models\\Dotnet.Models.csproj|g:\\petmart\\dotnetmastery\\dotnetmastery.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD5F731-DFEB-435E-898F-101924BD68FB}|DotnetMastery.Models\\Dotnet.Models.csproj|solutionrelative:dotnetmastery.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,8 +37,86 @@
       "DocumentGroups": [
         {
           "DockedHeight": 281,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "G:\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DotnetMastery.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "G:\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DotnetMastery.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:36:04.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DotnetMastery\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DotnetMastery\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T05:28:02.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DotnetMastery\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DotnetMastery\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:22:24.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Product.cs",
+              "RelativeDocumentMoniker": "DotnetMastery.Models\\Product.cs",
+              "ToolTip": "G:\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Product.cs",
+              "RelativeToolTip": "DotnetMastery.Models\\Product.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:04:33.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DotnetMastery",
+              "DocumentMoniker": "G:\\PetMart\\DotnetMastery\\DotnetMastery\\DotnetMastery.csproj",
+              "RelativeDocumentMoniker": "DotnetMastery\\DotnetMastery.csproj",
+              "ToolTip": "G:\\PetMart\\DotnetMastery\\DotnetMastery\\DotnetMastery.csproj",
+              "RelativeToolTip": "DotnetMastery\\DotnetMastery.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T05:00:34.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "G:\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DotnetMastery\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "G:\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DotnetMastery\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwGwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:55:35.065Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -19,8 +125,23 @@
         },
         {
           "DockedHeight": 119,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFoHAAAAAAAAAAAhwGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-07T05:12:07.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
