@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\DotnetMastery.DataAccess.csproj": {}
+    "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\DotnetMastery.DataAccess.csproj": {}
   },
   "projects": {
-    "G:\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\DotnetMastery.DataAccess.csproj": {
+    "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\DotnetMastery.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\DotnetMastery.DataAccess.csproj",
+        "projectUniqueName": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\DotnetMastery.DataAccess.csproj",
         "projectName": "DotnetMastery.DataAccess",
-        "projectPath": "G:\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\DotnetMastery.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\obj\\",
+        "projectPath": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\DotnetMastery.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "G:\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj": {
-                "projectPath": "G:\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj"
+              "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj": {
+                "projectPath": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj"
               },
-              "G:\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\DotnetMastery.Utility.csproj": {
-                "projectPath": "G:\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\DotnetMastery.Utility.csproj"
+              "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\DotnetMastery.Utility.csproj": {
+                "projectPath": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\DotnetMastery.Utility.csproj"
               }
             }
           }
@@ -49,9 +49,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -88,24 +88,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj": {
+    "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj",
+        "projectUniqueName": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj",
         "projectName": "Dotnet.Models",
-        "projectPath": "G:\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\PetMart\\DotnetMastery\\DotnetMastery.Models\\obj\\",
+        "projectPath": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -130,9 +130,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -140,7 +140,11 @@
           "dependencies": {
             "Microsoft.AspNetCore.Http": {
               "target": "Package",
-              "version": "[2.2.2, )"
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.3.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -173,24 +177,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\DotnetMastery.Utility.csproj": {
+    "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\DotnetMastery.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\DotnetMastery.Utility.csproj",
+        "projectUniqueName": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\DotnetMastery.Utility.csproj",
         "projectName": "DotnetMastery.Utility",
-        "projectPath": "G:\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\DotnetMastery.Utility.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "G:\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\obj\\",
+        "projectPath": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\DotnetMastery.Utility.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -215,9 +219,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -258,7 +262,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

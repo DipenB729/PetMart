@@ -27,3 +27,18 @@ G:\PetMart\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\refint\Dotnet.Mod
 G:\PetMart\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\Dotnet.Models.pdb
 G:\PetMart\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\Dotnet.Models.genruntimeconfig.cache
 G:\PetMart\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\ref\Dotnet.Models.dll
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Models\bin\Debug\net9.0\Dotnet.Models.deps.json
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Models\bin\Debug\net9.0\Dotnet.Models.runtimeconfig.json
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Models\bin\Debug\net9.0\Dotnet.Models.dll
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Models\bin\Debug\net9.0\Dotnet.Models.pdb
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\Dotnet.Models.csproj.AssemblyReference.cache
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\Dotnet.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\Dotnet.Models.AssemblyInfoInputs.cache
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\Dotnet.Models.AssemblyInfo.cs
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\Dotnet.Models.csproj.CoreCompileInputs.cache
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\Dotnet.Models.sourcelink.json
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\Dotnet.Models.dll
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\refint\Dotnet.Models.dll
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\Dotnet.Models.pdb
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\Dotnet.Models.genruntimeconfig.cache
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Models\obj\Debug\net9.0\ref\Dotnet.Models.dll

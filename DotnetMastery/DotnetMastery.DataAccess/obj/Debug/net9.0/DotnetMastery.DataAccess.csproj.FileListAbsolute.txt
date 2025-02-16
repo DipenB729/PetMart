@@ -37,3 +37,23 @@ G:\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\refint\Dotnet
 G:\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\DotnetMastery.DataAccess.pdb
 G:\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\DotnetMastery.DataAccess.genruntimeconfig.cache
 G:\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\ref\DotnetMastery.DataAccess.dll
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\bin\Debug\net9.0\DotnetMastery.DataAccess.deps.json
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\bin\Debug\net9.0\DotnetMastery.DataAccess.runtimeconfig.json
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\bin\Debug\net9.0\DotnetMastery.DataAccess.dll
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\bin\Debug\net9.0\DotnetMastery.DataAccess.pdb
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\bin\Debug\net9.0\Dotnet.Models.dll
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\bin\Debug\net9.0\DotnetMastery.Utility.dll
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\bin\Debug\net9.0\Dotnet.Models.pdb
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\bin\Debug\net9.0\DotnetMastery.Utility.pdb
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\DotnetMastery.DataAccess.csproj.AssemblyReference.cache
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\DotnetMastery.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\DotnetMastery.DataAccess.AssemblyInfoInputs.cache
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\DotnetMastery.DataAccess.AssemblyInfo.cs
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\DotnetMastery.DataAccess.csproj.CoreCompileInputs.cache
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\DotnetMastery.DataAccess.sourcelink.json
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\DotnetMa.9A7AEE13.Up2Date
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\DotnetMastery.DataAccess.dll
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\refint\DotnetMastery.DataAccess.dll
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\DotnetMastery.DataAccess.pdb
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\DotnetMastery.DataAccess.genruntimeconfig.cache
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.DataAccess\obj\Debug\net9.0\ref\DotnetMastery.DataAccess.dll
