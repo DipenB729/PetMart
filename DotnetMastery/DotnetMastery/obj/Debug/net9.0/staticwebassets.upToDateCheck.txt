@@ -1206,6 +1206,7 @@ E:\6th sem\PetMart\DotnetMastery\DotnetMastery\wwwroot\Frontend\plugins\codemirr
 E:\6th sem\PetMart\DotnetMastery\DotnetMastery\wwwroot\Frontend\plugins\fontawesome-free\css\brands.min.css
 E:\6th sem\PetMart\DotnetMastery\DotnetMastery\wwwroot\Frontend\plugins\flag-icon-css\flags\4x3\mn.svg
 E:\6th sem\PetMart\DotnetMastery\DotnetMastery\wwwroot\Frontend\plugins\moment\locale\tk.js
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery\wwwroot\js\product.js
 E:\6th sem\PetMart\DotnetMastery\DotnetMastery\wwwroot\Frontend\plugins\codemirror\mode\cmake\cmake.js
 E:\6th sem\PetMart\DotnetMastery\DotnetMastery\wwwroot\Frontend\plugins\flag-icon-css\flags\1x1\pn.svg
 E:\6th sem\PetMart\DotnetMastery\DotnetMastery\wwwroot\Frontend\plugins\summernote\lang\summernote-vi-VN.min.js.LICENSE.txt
@@ -4084,7 +4085,7 @@ wwwroot\Frontend\plugins\uplot\uPlot.iife.js
 wwwroot\Frontend\plugins\uplot\uPlot.iife.min.js
 wwwroot\Frontend\plugins\uplot\uPlot.min.css
 wwwroot\images\product\534ff5d1-4dcf-4da4-a358-867ab8df02ed.png
-wwwroot\images\product\a5393c23-8f2f-44f8-83cb-ac24b01ef594.png
+wwwroot\js\product.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

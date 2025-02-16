@@ -1,0 +1,15 @@
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Utility\bin\Debug\net9.0\DotnetMastery.Utility.deps.json
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Utility\bin\Debug\net9.0\DotnetMastery.Utility.runtimeconfig.json
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Utility\bin\Debug\net9.0\DotnetMastery.Utility.dll
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Utility\bin\Debug\net9.0\DotnetMastery.Utility.pdb
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Utility\obj\Debug\net9.0\DotnetMastery.Utility.csproj.AssemblyReference.cache
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Utility\obj\Debug\net9.0\DotnetMastery.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Utility\obj\Debug\net9.0\DotnetMastery.Utility.AssemblyInfoInputs.cache
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Utility\obj\Debug\net9.0\DotnetMastery.Utility.AssemblyInfo.cs
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Utility\obj\Debug\net9.0\DotnetMastery.Utility.csproj.CoreCompileInputs.cache
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Utility\obj\Debug\net9.0\DotnetMastery.Utility.sourcelink.json
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Utility\obj\Debug\net9.0\DotnetMastery.Utility.dll
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Utility\obj\Debug\net9.0\refint\DotnetMastery.Utility.dll
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Utility\obj\Debug\net9.0\DotnetMastery.Utility.pdb
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Utility\obj\Debug\net9.0\DotnetMastery.Utility.genruntimeconfig.cache
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery.Utility\obj\Debug\net9.0\ref\DotnetMastery.Utility.dll
