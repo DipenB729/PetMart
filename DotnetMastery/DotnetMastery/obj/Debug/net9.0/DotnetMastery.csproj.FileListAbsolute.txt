@@ -2526,7 +2526,6 @@ E:\6th sem\PetMart\DotnetMastery\DotnetMastery\obj\Debug\net9.0\DotnetMastery.so
 E:\6th sem\PetMart\DotnetMastery\DotnetMastery\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 E:\6th sem\PetMart\DotnetMastery\DotnetMastery\obj\Debug\net9.0\scopedcss\bundle\DotnetMastery.styles.css
 E:\6th sem\PetMart\DotnetMastery\DotnetMastery\obj\Debug\net9.0\scopedcss\projectbundle\DotnetMastery.bundle.scp.css
-E:\6th sem\PetMart\DotnetMastery\DotnetMastery\obj\Debug\net9.0\compressed\r86oeuphq5-c2tiyv64ts.gz
 E:\6th sem\PetMart\DotnetMastery\DotnetMastery\obj\Debug\net9.0\compressed\r73qfw9n0y-61n19gt1b8.gz
 E:\6th sem\PetMart\DotnetMastery\DotnetMastery\obj\Debug\net9.0\compressed\iaqpo9ut5w-r5i51zm8y4.gz
 E:\6th sem\PetMart\DotnetMastery\DotnetMastery\obj\Debug\net9.0\compressed\yhny7reqfd-35elw5v6sx.gz
@@ -4636,3 +4635,4 @@ E:\6th sem\PetMart\DotnetMastery\DotnetMastery\obj\Debug\net9.0\compressed\a3ygk
 E:\6th sem\PetMart\DotnetMastery\DotnetMastery\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
 E:\6th sem\PetMart\DotnetMastery\DotnetMastery\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
 E:\6th sem\PetMart\DotnetMastery\DotnetMastery\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+E:\6th sem\PetMart\DotnetMastery\DotnetMastery\obj\Debug\net9.0\compressed\r86oeuphq5-4un2att6o9.gz

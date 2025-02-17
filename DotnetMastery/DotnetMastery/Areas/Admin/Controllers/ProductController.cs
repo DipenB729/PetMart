@@ -5,11 +5,14 @@ using DotnetMastery.DataAccess.Repository;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Dotnet.Models.ViewModels;
+using DotnetMastery.Utility;
+using Microsoft.AspNetCore.Authorization;
 
 
 namespace DotnetMastery.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

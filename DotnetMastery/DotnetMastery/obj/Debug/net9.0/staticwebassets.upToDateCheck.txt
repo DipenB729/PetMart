@@ -4085,6 +4085,7 @@ wwwroot\Frontend\plugins\uplot\uPlot.iife.js
 wwwroot\Frontend\plugins\uplot\uPlot.iife.min.js
 wwwroot\Frontend\plugins\uplot\uPlot.min.css
 wwwroot\images\product\534ff5d1-4dcf-4da4-a358-867ab8df02ed.png
+wwwroot\images\product\569d6dea-fc7a-46d0-b675-d64f7bfdfa17.png
 wwwroot\js\product.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

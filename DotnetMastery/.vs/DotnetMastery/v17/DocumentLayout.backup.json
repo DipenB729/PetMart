@@ -3,48 +3,76 @@
   "WorkspaceRootPath": "E:\\6th sem\\PetMart\\DotnetMastery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery\\areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2A00355-DA17-4FB1-B6FA-C0A8DAD3A03C}|DotnetMastery.Utility\\DotnetMastery.Utility.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2A00355-DA17-4FB1-B6FA-C0A8DAD3A03C}|DotnetMastery.Utility\\DotnetMastery.Utility.csproj|solutionrelative:dotnetmastery.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BFD5F731-DFEB-435E-898F-101924BD68FB}|DotnetMastery.Models\\Dotnet.Models.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD5F731-DFEB-435E-898F-101924BD68FB}|DotnetMastery.Models\\Dotnet.Models.csproj|solutionrelative:dotnetmastery.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A00355-DA17-4FB1-B6FA-C0A8DAD3A03C}|DotnetMastery.Utility\\DotnetMastery.Utility.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A00355-DA17-4FB1-B6FA-C0A8DAD3A03C}|DotnetMastery.Utility\\DotnetMastery.Utility.csproj|solutionrelative:dotnetmastery.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C2A00355-DA17-4FB1-B6FA-C0A8DAD3A03C}|DotnetMastery.Utility\\DotnetMastery.Utility.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2A00355-DA17-4FB1-B6FA-C0A8DAD3A03C}|DotnetMastery.Utility\\DotnetMastery.Utility.csproj|solutionrelative:dotnetmastery.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFD5F731-DFEB-435E-898F-101924BD68FB}|DotnetMastery.Models\\Dotnet.Models.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFD5F731-DFEB-435E-898F-101924BD68FB}|DotnetMastery.Models\\Dotnet.Models.csproj|solutionrelative:dotnetmastery.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B80B23F3-35A2-461D-A609-D9618B91165F}|DotnetMastery.DataAccess\\DotnetMastery.DataAccess.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80B23F3-35A2-461D-A609-D9618B91165F}|DotnetMastery.DataAccess\\DotnetMastery.DataAccess.csproj|solutionrelative:dotnetmastery.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2A00355-DA17-4FB1-B6FA-C0A8DAD3A03C}|DotnetMastery.Utility\\DotnetMastery.Utility.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery.utility\\dotnetmastery.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C2A00355-DA17-4FB1-B6FA-C0A8DAD3A03C}|DotnetMastery.Utility\\DotnetMastery.Utility.csproj|solutionrelative:dotnetmastery.utility\\dotnetmastery.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFD5F731-DFEB-435E-898F-101924BD68FB}|DotnetMastery.Models\\Dotnet.Models.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery.models\\dotnet.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BFD5F731-DFEB-435E-898F-101924BD68FB}|DotnetMastery.Models\\Dotnet.Models.csproj|solutionrelative:dotnetmastery.models\\dotnet.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B80B23F3-35A2-461D-A609-D9618B91165F}|DotnetMastery.DataAccess\\DotnetMastery.DataAccess.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B80B23F3-35A2-461D-A609-D9618B91165F}|DotnetMastery.DataAccess\\DotnetMastery.DataAccess.csproj|solutionrelative:dotnetmastery.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5191A08B-E4F3-4FC2-A971-0C777C58B016}|DotnetMastery\\DotnetMastery.csproj|solutionrelative:dotnetmastery\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD5F731-DFEB-435E-898F-101924BD68FB}|DotnetMastery.Models\\Dotnet.Models.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery.models\\dotnet.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFD5F731-DFEB-435E-898F-101924BD68FB}|DotnetMastery.Models\\Dotnet.Models.csproj|solutionrelative:dotnetmastery.models\\dotnet.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B80B23F3-35A2-461D-A609-D9618B91165F}|DotnetMastery.DataAccess\\DotnetMastery.DataAccess.csproj|e:\\6th sem\\petmart\\dotnetmastery\\dotnetmastery.dataaccess\\migrations\\20250216191303_addiddentitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 281,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,59 +98,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DotnetMastery\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml*",
+              "RelativeToolTip": "DotnetMastery\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T10:50:13.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DotnetMastery\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "DotnetMastery\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DotnetMastery\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml*",
+              "RelativeToolTip": "DotnetMastery\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T20:43:26.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T20:33:56.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmailSender.cs",
-              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\EmailSender.cs",
-              "RelativeDocumentMoniker": "DotnetMastery.Utility\\EmailSender.cs",
-              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\EmailSender.cs",
-              "RelativeToolTip": "DotnetMastery.Utility\\EmailSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T19:50:52.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAswG8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T19:30:10.389Z",
+              "WhenOpened": "2025-02-17T10:48:01.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DotnetMastery\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "DotnetMastery\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T10:20:49.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DotnetMastery\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DotnetMastery\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-17T10:08:38.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:00:29.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Program.cs",
+              "RelativeDocumentMoniker": "DotnetMastery\\Program.cs",
+              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Program.cs",
+              "RelativeToolTip": "DotnetMastery\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T19:37:57.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SD.cs",
               "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\SD.cs",
               "RelativeDocumentMoniker": "DotnetMastery.Utility\\SD.cs",
@@ -135,20 +189,123 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Program.cs",
-              "RelativeDocumentMoniker": "DotnetMastery\\Program.cs",
-              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Program.cs",
-              "RelativeToolTip": "DotnetMastery\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DotnetMastery.Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "DotnetMastery.Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T19:37:57.586Z",
+              "WhenOpened": "2025-02-16T19:18:28.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "DotnetMastery\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwD0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T20:33:56.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DotnetMastery\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DotnetMastery\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:48:32.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "DotnetMastery\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "DotnetMastery\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:48:03.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\EmailSender.cs",
+              "RelativeDocumentMoniker": "DotnetMastery.Utility\\EmailSender.cs",
+              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\EmailSender.cs",
+              "RelativeToolTip": "DotnetMastery.Utility\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T19:50:52.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DotnetMastery\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DotnetMastery\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T20:43:26.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DotnetMastery.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DotnetMastery.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T19:21:21.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DotnetMastery.Utility.csproj",
+              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\DotnetMastery.Utility.csproj",
+              "RelativeDocumentMoniker": "DotnetMastery.Utility\\DotnetMastery.Utility.csproj",
+              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\DotnetMastery.Utility.csproj",
+              "RelativeToolTip": "DotnetMastery.Utility\\DotnetMastery.Utility.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-16T19:58:49.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DotnetMastery\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DotnetMastery\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:30:44.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "DotnetMastery\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
@@ -156,38 +313,11 @@
               "RelativeToolTip": "DotnetMastery\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T21:06:09.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T21:06:09.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "DotnetMastery.Models\\ApplicationUser.cs",
-              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Models\\ApplicationUser.cs",
-              "RelativeToolTip": "DotnetMastery.Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T19:18:28.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DotnetMastery.Utility.csproj",
-              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\DotnetMastery.Utility.csproj",
-              "RelativeDocumentMoniker": "DotnetMastery.Utility\\DotnetMastery.Utility.csproj",
-              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Utility\\DotnetMastery.Utility.csproj",
-              "RelativeToolTip": "DotnetMastery.Utility\\DotnetMastery.Utility.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-16T19:58:49.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Dotnet.Models.csproj",
               "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.Models\\Dotnet.Models.csproj",
               "RelativeDocumentMoniker": "DotnetMastery.Models\\Dotnet.Models.csproj",
@@ -200,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "20250216192400_ExtendIdentityuser.cs",
               "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\Migrations\\20250216192400_ExtendIdentityuser.cs",
               "RelativeDocumentMoniker": "DotnetMastery.DataAccess\\Migrations\\20250216192400_ExtendIdentityuser.cs",
@@ -212,19 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DotnetMastery.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DotnetMastery.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T19:21:21.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "20250216191303_addIddentitytable.cs",
               "DocumentMoniker": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery.DataAccess\\Migrations\\20250216191303_addIddentitytable.cs",
               "RelativeDocumentMoniker": "DotnetMastery.DataAccess\\Migrations\\20250216191303_addIddentitytable.cs",

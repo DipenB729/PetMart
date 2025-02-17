@@ -3,11 +3,14 @@ using Dotnet.Models;
 using DotnetMastery.DataAccess.Data;
 using DotnetMastery.DataAccess.Repository;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
+using DotnetMastery.Utility;
 
 
 namespace DotnetMastery.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles =SD.Role_Admin)]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

@@ -2467,10 +2467,7 @@
         },
         "runtime": {
           "bin/placeholder/DotnetMastery.Utility.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },
