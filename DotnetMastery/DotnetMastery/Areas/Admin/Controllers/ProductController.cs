@@ -11,8 +11,8 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace DotnetMastery.Areas.Admin.Controllers
 {
-    [Area("Admin")]
-    [Authorize(Roles = SD.Role_Admin)]
+[Area("Admin")]
+[Authorize(Roles = SD.Role_Admin)]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

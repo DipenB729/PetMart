@@ -6,37 +6,35 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] -Students</title>
+    <title>@ViewData["Title"] PetMart-ECommerce shop</title>
     <script type="importmap">console.log(@User)</script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/DotnetMastery.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="//cdn.datatables.net/2.2.2/css/dataTables.dataTables.min.css" asp-append-version="true" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.css" />
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom box-shadow ">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">CrudOperation</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                aria-expanded="false" aria-label="Toggle navigation">
+                        aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d -sm-inline-flex justify-content-between">
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav me-auto">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="Customer" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-dark" asp-area="Customer" asp-controller="Home" asp-action="Index">Petmart</a>
                         </li>
 
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="Customer" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                        @if(User.IsInRole(SD.Role_Admin))
-                         {  
-                            <li class="nav-item dropdown">
+                        @if (User.IsInRole(SD.Role_Admin))
+                        {
+                            <li class="nav-item me-2 dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Content Management
                                 </a>
@@ -47,30 +45,128 @@
                                     <li class="nav-item">
                                         <a class="dropdown-item text-dark" asp-area="Admin" asp-controller="Product" asp-action="Index">Product</a>
                                     </li>
-
                                     <li><hr class="dropdown-divider"></li>
-
                                 </ul>
                             </li>
-                         }  
+                        }
                     </ul>
+                    <form class="d-flex align-items-center" asp-area="Customer" asp-controller="Product" asp-action="Index" method="get">
+                        <input class="form-control me-2" type="search" name="searchTerm" placeholder="Search for products..." aria-label="Search">
+                        <button class="btn btn-outline-success" type="submit">Search</button>
+                    </form>
+
+                    <a class="nav-link text-dark d-flex align-items-center" href="@Url.Action("ViewCart", "Cart", new { area = "Customer" })">
+                        <i class="bi bi-cart-fill me-2" style="font-size: 1.5rem;"></i>
+                        <span id="cartCount" class="badge bg-danger rounded-pill">
+                            @ViewBag.CartCount ?? 0
+                        </span>
+                    </a>
+
+
+
+
+
                     <partial name="_LoginPartial" />
                 </div>
             </div>
         </nav>
+        <!-- Second Navbar -->
+        <!-- Second Navbar -->
+        <nav class="navbar navbar-expand-sm navbar-light bg-light border-bottom box-shadow mt-0 mb-3">
+            <div class="container-fluid d-flex justify-content-center">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-flex justify-content-center" id="navbarNav">
+                    <ul class="navbar-nav d-flex justify-content-center">
+                        <li class="nav-item dropdown mx-3">
+                            <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Dog Categories
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="#">Dog Food</a></li>
+                                <li><a class="dropdown-item" href="#">Dog Toys</a></li>
+                                <li><a class="dropdown-item" href="#">Dog Accessories</a></li>
+                                <li><a class="dropdown-item" href="#">Dog Grooming</a></li>
+                                <li><a class="dropdown-item" href="#">Dog Health</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item dropdown mx-3">
+                            <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Cat Categories
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="#">Cat Food</a></li>
+                                <li><a class="dropdown-item" href="#">Cat Toys</a></li>
+                                <li><a class="dropdown-item" href="#">Cat Accessories</a></li>
+                                <li><a class="dropdown-item" href="#">Cat Grooming</a></li>
+                                <li><a class="dropdown-item" href="#">Cat Health</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item dropdown mx-3">
+                            <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Services
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="#">Grooming Services</a></li>
+                                <li><a class="dropdown-item" href="#">Pet Sitting</a></li>
+                                <li><a class="dropdown-item" href="#">Dog Walking</a></li>
+                                <li><a class="dropdown-item" href="#">Training Services</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item dropdown mx-3">
+                            <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Pharmacy
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="#">Medications</a></li>
+                                <li><a class="dropdown-item" href="#">Supplements</a></li>
+                                <li><a class="dropdown-item" href="#">First Aid Kits</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item mx-3">
+                            <a class="nav-link text-dark" href="#">Blog</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+       
+
     </header>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
+   
 
   
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://khalti.com/static/khalti-checkout.js"></script>
+    <script src="https://khalti.com/static/khalti-checkout.js"></script>
+
     <script src="//cdn.datatables.net/2.2.2/js/dataTables.min.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
-</body>
+    <script>
+        // Make an AJAX request to fetch the cart count
+        $(document).ready(function () {
+            $.get('@Url.Action("GetCartCount", "Cart")', function (data) {
+                // Update the cart count dynamically
+                $('#cartCount').text(data.cartCount);
+            });
+        });
+    </script>
+
+
+</body> 
 </html>

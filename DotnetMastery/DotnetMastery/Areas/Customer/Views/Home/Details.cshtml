@@ -31,9 +31,8 @@
                 <a asp-action="Index" asp-controller="Home" class="btn btn-outline-secondary btn-lg w-50 shadow-sm">
                     <i class="bi bi-arrow-left"></i> Go Back
                 </a>
-                <button class="btn btn-primary btn-lg w-50 shadow-sm">
-                    <i class="bi bi-cart-plus"></i> Add to Cart
-                </button>
+                <a class="btn btn-success" href="@Url.Action("AddToCart", "Cart", new { id = Model.Id })">Add to Cart</a>
+
             </div>
         </div>
     </div>

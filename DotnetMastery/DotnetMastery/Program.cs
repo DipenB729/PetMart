@@ -25,10 +25,6 @@ builder.Services.AddAuthentication(options =>
 });
 
 
-
-
-
-
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("DefaultConnection")));
 
@@ -42,6 +38,8 @@ builder.Services.ConfigureApplicationCookie(options =>
 });
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfwork>();
+builder.Services.AddScoped<CartService>();
+
 
 builder.Services.AddScoped<IEmailSender,EmailSender>();
 var app = builder.Build();

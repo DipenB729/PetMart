@@ -8345,6 +8345,14 @@
       "PackagePath": "staticwebassets\\Frontend\\plugins\\uplot\\uPlot.min.css"
     },
     {
+      "Id": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\wwwroot\\assets\\catdog.jpg",
+      "PackagePath": "staticwebassets\\assets\\catdog.jpg"
+    },
+    {
+      "Id": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\wwwroot\\assets\\mainimage.jpg",
+      "PackagePath": "staticwebassets\\assets\\mainimage.jpg"
+    },
+    {
       "Id": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -8353,12 +8361,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\wwwroot\\images\\product\\2f0780ee-4194-4dbd-8160-f7cda225600a.jfif",
+      "PackagePath": "staticwebassets\\images\\product\\2f0780ee-4194-4dbd-8160-f7cda225600a.jfif"
+    },
+    {
       "Id": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\wwwroot\\images\\product\\534ff5d1-4dcf-4da4-a358-867ab8df02ed.png",
       "PackagePath": "staticwebassets\\images\\product\\534ff5d1-4dcf-4da4-a358-867ab8df02ed.png"
     },
     {
       "Id": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\wwwroot\\images\\product\\569d6dea-fc7a-46d0-b675-d64f7bfdfa17.png",
       "PackagePath": "staticwebassets\\images\\product\\569d6dea-fc7a-46d0-b675-d64f7bfdfa17.png"
+    },
+    {
+      "Id": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\wwwroot\\images\\product\\5af6680f-2a77-4f5a-93e2-4e74604b95a3.jfif",
+      "PackagePath": "staticwebassets\\images\\product\\5af6680f-2a77-4f5a-93e2-4e74604b95a3.jfif"
+    },
+    {
+      "Id": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\wwwroot\\images\\product\\cf165e6b-1262-47ec-848d-9f76f65f4b88.jfif",
+      "PackagePath": "staticwebassets\\images\\product\\cf165e6b-1262-47ec-848d-9f76f65f4b88.jfif"
+    },
+    {
+      "Id": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\wwwroot\\images\\product\\f676ea6b-942d-4650-ac7c-3541c46dd514.jfif",
+      "PackagePath": "staticwebassets\\images\\product\\f676ea6b-942d-4650-ac7c-3541c46dd514.jfif"
+    },
+    {
+      "Id": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\wwwroot\\images\\product\\f8b24758-f76b-4beb-8964-253c441b18be.jfif",
+      "PackagePath": "staticwebassets\\images\\product\\f8b24758-f76b-4beb-8964-253c441b18be.jfif"
     },
     {
       "Id": "E:\\6th sem\\PetMart\\DotnetMastery\\DotnetMastery\\wwwroot\\js\\product.js",

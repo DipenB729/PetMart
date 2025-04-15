@@ -29,3 +29,17 @@ body {
     margin:auto 0.25rem;
     box-shadow:0 -2px;
 }
+.image-container {
+    width: 100%;
+    height: auto;
+    margin-top: 0; /* Adjust this if you want spacing between navbar and image */
+    overflow: hidden;
+}
+
+    .image-container img {
+        width: 100%;
+        height: auto;
+        object-fit: cover; /* Ensures image covers the full width without stretching */
+        object-position: center; /* Keeps the focal point in the center of the image */
+    }
+

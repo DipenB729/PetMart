@@ -1,0 +1,85 @@
+﻿@model List<Dotnet.Models.UserCartItem>
+@{
+    ViewBag.Title = "Confirm Your Order";
+    var total = ViewBag.TotalAmount;
+}
+
+<h2>Confirm Your Order</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Price (Each)</th>
+            <th>Subtotal</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Product.Title</td>
+                <td>@item.Quantity</td>
+                <td>Rs. @item.Product.Price</td>
+                <td>Rs. @(item.Quantity * item.Product.Price)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h4 class="text-end">Total: Rs. @total</h4>
+
+<form method="post" asp-action="ProcessKhaltiPayment" asp-controller="Cart" asp-area="Customer">
+    <input type="hidden" name="amount" value="@total" />
+    <button type="button" id="pay-button" class="btn btn-primary">Pay with Khalti</button>
+
+</form>
+<script src="https://khalti.com/static/khalti-checkout.js"></script>
+
+<script>
+    var config = {
+        // replace with your actual public key from Khalti merchant dashboard
+        "publicKey": "test_public_key_dc74c631e0664f43b2d0324ab3153a1a",
+        "productIdentity": "1234567890",
+        "productName": "Pet Mart Order",
+        "productUrl": "http://yourdomain.com/order/details",  // optional
+        "eventHandler": {
+            onSuccess(payload) {
+                // Send payload.token and amount to the server for verification & saving order
+                fetch('/Customer/Cart/ProcessKhaltiPayment', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'RequestVerificationToken': $('input[name="__RequestVerificationToken"]').val()
+                    },
+                    body: JSON.stringify({
+                        token: payload.token,
+                        amount: totalAmountInPaisa  // must be in paisa (e.g., 1000 = Rs. 10)
+                    })
+                })
+                .then(res => res.json())
+                .then(data => {
+                    if (data.success) {
+                        window.location.href = "/Customer/Cart/OrderSuccess";
+                    } else {
+                        alert("Payment verification failed.");
+                    }
+                });
+            },
+            onError(error) {
+                console.log(error);
+            },
+            onClose() {
+                console.log('Widget closed');
+            }
+        }
+    };
+
+    var totalAmountInPaisa = @ViewBag.TotalAmount * 100;
+
+    var checkout = new KhaltiCheckout(config);
+    document.getElementById("pay-button").onclick = function () {
+        checkout.show({ amount: totalAmountInPaisa });
+    };
+</script>

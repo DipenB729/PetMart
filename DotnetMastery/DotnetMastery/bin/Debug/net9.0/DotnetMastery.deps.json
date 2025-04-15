@@ -18,6 +18,7 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "9.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "9.0.0",
+          "Newtonsoft.Json": "13.0.3",
           "System.Security.Cryptography.Xml": "9.0.0"
         },
         "runtime": {

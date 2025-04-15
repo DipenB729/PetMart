@@ -18,11 +18,23 @@ namespace DotnetMastery.Areas.Customer.Controllers
             _unitOfWork = unitOfWork;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(string searchTerm)
         {
-            IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties:"Category");
+            IEnumerable<Product> productList;
+
+            if (!string.IsNullOrEmpty(searchTerm))
+            {
+                productList = _unitOfWork.Product.GetAll(includeProperties: "Category")
+                              .Where(p => p.Title.Contains(searchTerm, StringComparison.OrdinalIgnoreCase));
+            }
+            else
+            {
+                productList = _unitOfWork.Product.GetAll(includeProperties: "Category");
+            }
+
             return View(productList);
         }
+
         public IActionResult Details(int productId)
         {
            Product product= _unitOfWork.Product.Get(u=>u.Id==productId,includeProperties: "Category");
